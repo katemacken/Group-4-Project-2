@@ -1,4 +1,4 @@
-# **MIST4610 Group 4 Project 2(need tableau wksht)**
+# **MIST4610 Group 4 Project 2**
 
 ## Team Name:
 **61608 Group 4**
@@ -48,4 +48,4 @@ Our first visualization showed a clear correlation when it came to how residenti
 While the majority of the dataset did not need any manipulations, the "Difference" calculations allowed us to see the true difference between the assessed value and the sale amount. To do this calculation, we added another column to the end of the dataset, and we subtracted the Assessed Value from the Sale Amount. The data format stayed the same as the assessed value and sale amount, which are number (decimals). In addition, we did have to convert the town data type from string to town to be able to visualize the data through a symbol map. 
 
 ## Tableau Packaged Workbook
-The packaged workbook is attached to this repository, and it shows the visualizations that are explained above. 
+Packaged Workbook: https://outlookuga-my.sharepoint.com/:u:/g/personal/klc15851_uga_edu/EZA_kC-W1tNGt7YIU6No0gMBqx1cDUe7V29bN8bTVT-koA?e=e0JMKT
