@@ -36,8 +36,7 @@ Question: For residential property types, how does proximity to New York City af
 
 Importance: This question is important as it can not only allow customers, but realtors as well to analyze the residential Connecticut real estate market as a whole across 2020 and 2021. This is valuable for realtors because it can show them the towns that they should focus their efforts to maximize their sales. This question is valuable for customers as it allows them to see how far their budget can stretch them in the market and also allows them to see how much they prioritize their distance from New York City. Customers can then have a discussion with their realtor to determine where they can realistically purchase their future home in Connecticut. To illustrate this, we chose to use a symbol map. 
 
-![MIST Project 2 - Map](https://github.com/katemacken/Group-4-Project-2/assets/163012888/d1563d96-80d1-436d-b855-64742fca1714)
-
+<img width="962" alt="average sale price" src="https://github.com/katemacken/Group-4-Project-2/assets/163315179/28f98e41-f611-4011-9613-343d4dbdb93e">
 
 The first visualization shows each town in Connecticut denoted by a bubble whose size and color is dependent on their average residential sale price in 2020-2021. The larger and darker the bubble is, the greater the average sale price was. The second visualization, shows the 10 towns in Connecticut with the highest average sale price across 2020-2021.
 
